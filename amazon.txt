@@ -1,0 +1,2 @@
+working area,staging area,local area
+
