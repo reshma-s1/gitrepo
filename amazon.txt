@@ -8,6 +8,3 @@ git merge is just merge the files
 
 -------------------------------------------------------
 git rebase branch_name
-
-merge conflict--
-
