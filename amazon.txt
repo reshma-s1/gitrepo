@@ -1,4 +1,7 @@
 working area,staging area,local area
 updating in master branch
 updating..........
-
+git merge and rebase both are using for merging
+but the difference is history
+git rebase gives the linear history of the commited file.
+git merge is just merge the files 
